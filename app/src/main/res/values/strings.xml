@@ -3,4 +3,5 @@
     <string name="tit_principal">TAREAS</string>
     <string name="tit_card">Título de la Tarea</string>
     <string name="conten_card">Escribir descripción aquí...</string>
+    <string name="nueva_nota">Nueva Nota</string>
 </resources>
