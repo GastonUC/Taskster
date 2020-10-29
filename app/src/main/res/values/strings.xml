@@ -6,4 +6,20 @@
     <string name="nueva_nota">Nueva Nota</string>
     <string name="hintNombreNota">Ingrese el Nombre</string>
     <string name="hintDescripcionNota">Descripción...</string>
+    <string-array name="testRecyclerView">
+        <item>Nota 1</item>
+        <item>Nota 2</item>
+        <item>Nota 3</item>
+        <item>Nota 4</item>
+        <item>Nota 5</item>
+        <item>Nota 6</item>
+    </string-array>
+    <string-array name="contentRecyclerView">
+        <item>Descripcion</item>
+        <item>Descripcion</item>
+        <item>Descripcion</item>
+        <item>Descripcion</item>
+        <item>Descripcion</item>
+        <item>Descripcion</item>
+    </string-array>
 </resources>
