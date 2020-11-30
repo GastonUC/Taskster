@@ -7,7 +7,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-
 import cl.inacap.taskster.modelo.Adaptador;
 
 public class MainActivity extends AppCompatActivity {

@@ -6,7 +6,8 @@ public class Nota {
     private Boolean estado;
 
     public static final Nota[] notas={
-            new Nota("Nota de prueba", "Algo para escribir en esta nota...", true)
+            new Nota("Nota de prueba", "Algo para escribir en esta nota...", true),
+            new Nota("Otra nota", "Esta es otra nota", true)
     };
 
     public Nota(String titulo, String descripcion, Boolean estado) {
